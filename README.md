@@ -19,7 +19,7 @@ The main library file is located at `bedrock_edition_protocol/lib/src/bedrock_ed
 
 ### Example: Basic Server Information
 
-Let's assume we have a Minecraft Bedrock server with the hostname `bedrock.vortexnetwork.net`. We want to obtain the following details:
+Let's assume we have a Minecraft Bedrock server with the hostname `smc.mc-complex.com`. We want to obtain the following details:
 
 - Number of online players
 - Maximum player capacity
